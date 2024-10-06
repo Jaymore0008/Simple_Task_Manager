@@ -17,7 +17,7 @@ The **Simple Task Manager** is a C++ command-line program that allows users to a
 
 ## How to Run
 1. Clone this repository:  
-   `git clone https://github.com/yourusername/simple-task-manager.git`
+   `git clone https://github.com/Jaymore0008/Simple_Task_Manager.git`
 2. Compile the code using a C++ compiler:
    ```bash
    g++ task_manager.cpp -o task_manager
